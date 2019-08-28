@@ -20,4 +20,5 @@ module.exports = function(sd){
 	});
 	// derer.setFilter('tr', sd._tr);
 	// derer.setFilter('translate', sd._tr);
+	sd._derer = derer;
 }
